@@ -1,0 +1,16 @@
+7d20f035fedc71769c75cf7a1549020d *DESCRIPTION
+4fba66f8af077a8676e4a4895df0ff5a *NAMESPACE
+ee30840cf97a79a368e14207a75c5e62 *R/bootstrap_cutoff.R
+84baba7b58604296a6aff55f7bd883ba *R/slide.R
+353ec1b49b89a97cce577a0ce4dfc56b *R/slide_data.R
+a353e5f25648a55301e8cc2a2f93425e *build/vignette.rds
+32ded8e838fcb70ed2812a297ede5fbe *data/I_sig.rda
+3f494de7a0a7ccd1a6f54fd2d0d531a8 *data/UN_sig.rda
+5aa40f92737bb4fdc83ac4e78860687d *inst/doc/user_doc.R
+0c91b9505f4fbc852fe983bca7b201ef *inst/doc/user_doc.Rmd
+11cd3f97e45c9aee38e18342ab2de1c2 *inst/doc/user_doc.html
+be0dcb1d69b7345be6fc29938df51729 *man/I_sig.Rd
+d2d244e45dbd527023525599fcfffced *man/UN_sig.Rd
+3750751a8d2d4d3350f660e869ccc1a6 *man/bootstrap_cutoff.Rd
+640bdef73af8702cbeca636a25b38b82 *man/slide.Rd
+0c91b9505f4fbc852fe983bca7b201ef *vignettes/user_doc.Rmd
